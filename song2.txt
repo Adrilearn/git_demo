@@ -5,7 +5,6 @@ on this their chosen battle field
 <<<<<<< HEAD
 
 Form the lines
-Shield by shield
-Side by side
+
 =======
 >>>>>>> parent of 8046198 (I add 2 lines my song2)
